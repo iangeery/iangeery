@@ -13,4 +13,4 @@ I'm working on beginner-friendly and studen projects to practice and demonstrate
 - **RF Configuralizer**: A parametric tool for configuring cell phone antennas.
 
 ## 📬 Let's Connect
-Follow my progress and feel free to connect with me here on Github or on [LinkedIn]([your-link](https://www.linkedin.com/in/ian-geery-36a37b7b/))
+Follow my progress and feel free to connect with me here on Github or on [LinkedIn](https://www.linkedin.com/in/ian-geery-36a37b7b/)
