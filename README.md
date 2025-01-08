@@ -8,7 +8,7 @@ Hi! I'm a Telecom Structural Engineer actively learning programming and software
 - 🎯 Committed to continuous improvement and expanding my skillset over time.
 
 ## 💡 Projects:
-I'm working on beginner-friendly and studen projects to practice and demonstrate my learning:
+I'm working on beginner-friendly and student projects to practice and demonstrate my learning:
 - **Risa File Viewer**: A simple web-based app for examining/exporting/displaying Risa 3D model files.
 - **RF Configuralizer**: A parametric tool for configuring cell phone antennas.
 
