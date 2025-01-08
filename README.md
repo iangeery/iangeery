@@ -14,3 +14,5 @@ I'm working on beginner-friendly and studen projects to practice and demonstrate
 
 ## 📬 Let's Connect
 Follow my progress and feel free to connect with me here on Github or on [LinkedIn](https://www.linkedin.com/in/ian-geery-36a37b7b/)
+
+🦆CS50 2025🦆
